@@ -1,0 +1,129 @@
+/*--------------Nav bar-----------*/
+
+#nav-bar{
+	position:sticky;
+	top:0;
+	z-index:10;
+}
+.navbar-brand img{
+	height: 30px;
+	padding-left: 30px;
+}
+.navbar-nav li{
+	padding: 0px;
+}
+.navbar-nav li a{
+	float:right;
+	text-align:left;
+}
+#nav-bar ul li a: hover{
+	color:#006666 !important;
+}
+.navbar{
+	background:#003333;
+}
+.navbar-toggler{
+	border:none !important;
+}
+.nav-link{
+	color:#FFFFFF !important;
+	font-weight:300;
+	font-size: 20px;}
+	
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+  width: 100%; /* Full width */
+  background-color:#FFFFFF; /* White background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.html {width: 90%; background-color:#009933;} /* Green */
+.css {width: 80%; background-color:#3300FF;} /* Blue */
+.js {width: 65%; background-color:#FF0000;} /* Red */
+.php {width: 60%; background-color:#FFFF00} /* Yeallow */
+	
+#icon{
+height:300px;
+width:1333px;
+background:#FFFFFF;
+}
+
+#signin{
+height:200px;
+width:100%;
+background:#000000;
+float:left;
+margin-top:40px;
+}
+
+#signin1{
+height:35px;
+width:484px;
+text-align:left;
+margin-top:0px;
+margin-left:445px;
+}
+
+#submit{
+height:35px;
+width:80px;
+color:#FFFFFF;
+background:#FF0066;
+margin-top:0px;
+margin-left:0px}
+
+#footer{
+height:300px;
+width:100%;
+background:#333333;
+float: left;
+}
+
+#footer1{
+height:300px;
+width:430px;
+float:left;}
+
+#footer2{
+height:300px;
+width:430px;
+color:#FFFFFF;
+float:left;
+font-family:Verdana, Arial, Helvetica, sans-serif;}
+
+#footer3{
+height:300px;
+width:430px;
+color:#FFFFFF;
+margin-left:43px;
+float:left;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
